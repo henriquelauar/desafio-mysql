@@ -22,35 +22,35 @@ CONSTRAINT item_pedido FOREIGN KEY
 
 );
 
+-- mes 01
 INSERT INTO item_pedido VALUES (null, '1', '800', '800', '1', '1');
 INSERT INTO item_pedido VALUES (null, '1', '3500', '3500', '2', '1');
-
 INSERT INTO item_pedido VALUES (null, '1', '900', '900', '3', '2');
 INSERT INTO item_pedido VALUES (null, '1', '530', '530', '4', '2');
 
+-- mes 02
 INSERT INTO item_pedido VALUES (null, '1', '530', '530', '4', '3');
 INSERT INTO item_pedido VALUES (null, '1', '110', '110', '9', '3');
-
 INSERT INTO item_pedido VALUES (null, '1', '5000', '5000', '5', '4');
 
+-- mes 03
 INSERT INTO item_pedido VALUES (null, '2', '80', '160', '10', '5');
 INSERT INTO item_pedido VALUES (null, '2', '110', '220', '9', '5');
-
 INSERT INTO item_pedido VALUES (null, '3', '80', '240', '10', '6');
 
+-- mes 04
 INSERT INTO item_pedido VALUES (null, '1', '1800', '1800', '7', '7');
 INSERT INTO item_pedido VALUES (null, '1', '3200', '3200', '8', '7');
-
 INSERT INTO item_pedido VALUES (null, '1', '3200', '3200', '8', '8');
 
+-- mes 05
 INSERT INTO item_pedido VALUES (null, '1', '800', '800', '1', '9');
 INSERT INTO item_pedido VALUES (null, '1', '80', '80', '10', '9');
-
 INSERT INTO item_pedido VALUES (null, '1', '8000', '8000', '6', '10');
 
+-- mes 06
 INSERT INTO item_pedido VALUES (null, '1', '900', '900', '3', '11');
 INSERT INTO item_pedido VALUES (null, '1', '110', '110', '9', '11');
-
 INSERT INTO item_pedido VALUES (null, '3', '530', '1590', '4', '12');
 INSERT INTO item_pedido VALUES (null, '1', '110', '110', '9', '12');
 
