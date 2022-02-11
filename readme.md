@@ -2,7 +2,7 @@
   <img src="./assets/gama.png" width="40%" style="align-itens: center"/>
 </p>
 
-<p align="center">Desafio HandsOn - MySQL</p>
+# <p align="center"> Desafio HandsOn - MySQL</p>
 <p align="center">
 <a href="#sobre-o-projeto">Sobre</a> •
  <a href="#objetivo">Objetivo</a> • 
