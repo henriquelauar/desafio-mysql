@@ -1,0 +1,1 @@
+select count(id) as "Total de Clientes" from cliente;
